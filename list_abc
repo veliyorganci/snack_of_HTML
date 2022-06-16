@@ -1,0 +1,8 @@
+<body>
+    <p> Nasıl A. B. C şeklinde listeleme yapılır? </p>
+    <ol type="a">
+        <li>Reçel.</li>
+        <li>Tahin.</li>
+        <li>Soğan.</li>
+    </ol>
+</body>

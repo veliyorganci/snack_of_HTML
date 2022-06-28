@@ -1,0 +1,9 @@
+<html>
+    <body>
+        <h1>Headline</h1>
+        <div style="background-color:Orange; color:white; padding:30px;">
+            <p>Some paragraph text goes here.</p>
+            <p>Another paragraph goes here.</p>
+        </div>
+    </body>
+</html>
